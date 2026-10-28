@@ -1,0 +1,67 @@
+{
+  "algorithm": "Categorical Naive Bayes",
+  "rows_after_exact_duplicate_removal": 203,
+  "predictor_count": 46,
+  "target": "Stated turnover intention",
+  "source_target_column": "Do you have any turnover intention?",
+  "class_counts": {
+    "No": 156,
+    "Yes": 47
+  },
+  "duplicates_removed": 0,
+  "missing_cells_before_imputation": 0,
+  "split": "80/20 stratified holdout; random_state=42",
+  "training_validation": "5-fold stratified cross-validation and a separate 20% held-out evaluation; only Categorical Naive Bayes is trained",
+  "cv_f1_yes_mean": 0.8128011204481792,
+  "cv_f1_yes_sd": 0.040653127271801606,
+  "cv_balanced_accuracy_mean": 0.870642857142857,
+  "cv_roc_auc_mean": 0.9577083333333334,
+  "test_rows": 41,
+  "test_positive_count": 9,
+  "deployment_model_training_rows": 203,
+  "deployment_model": "Refit on all labeled rows after holdout evaluation; used by the app for new responses.",
+  "test_accuracy": 0.9024390243902439,
+  "test_precision_yes": 1.0,
+  "test_recall_yes": 0.5555555555555556,
+  "test_f1_yes": 0.7142857142857143,
+  "test_roc_auc": 0.9583333333333334,
+  "test_pr_auc": 0.8928910595577262,
+  "test_confusion_matrix_no_yes": [
+    [
+      32,
+      0
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "test_classification_report": {
+    "No": {
+      "precision": 0.8888888888888888,
+      "recall": 1.0,
+      "f1-score": 0.9411764705882353,
+      "support": 32.0
+    },
+    "Yes": {
+      "precision": 1.0,
+      "recall": 0.5555555555555556,
+      "f1-score": 0.7142857142857143,
+      "support": 9.0
+    },
+    "accuracy": 0.9024390243902439,
+    "macro avg": {
+      "precision": 0.9444444444444444,
+      "recall": 0.7777777777777778,
+      "f1-score": 0.8277310924369747,
+      "support": 41.0
+    },
+    "weighted avg": {
+      "precision": 0.9132791327913279,
+      "recall": 0.9024390243902439,
+      "f1-score": 0.8913711826193893,
+      "support": 41.0
+    }
+  },
+  "caution": "Only 203 survey responses and 47 Yes labels; single holdout estimates are uncertain. Predicts stated intention, not actual turnover. Associations are not causal."
+}

@@ -1,0 +1,47 @@
+feature,mean_f1_decrease,std_f1_decrease
+Alternative Job Opportunity [I feel that it would be easy for me to find a job that is much better than the one I now have.],0.023412698412698434,0.028543857949768974
+"Alternative Job Opportunity [All in all, this is the likelihood that I could find an acceptable alternative with another company.]",0.006349206349206356,0.01618736353521521
+Organizational Commitment [The offer of a bit more money with another employer would not seriously make me think of changing my job.],0.0047619047619047675,0.014285714285714304
+Recognition [I am equally getting attention and support from the superiors when compared with the other co-workers.],0.0047619047619047675,0.014285714285714304
+Job Satisfaction [I am having better career aspects.],0.001587301587301589,0.008547880646245254
+"Organizational Commitment [Even if the firm were not doing too well financially, I would be reluctant to change to another employer.]",0.001587301587301589,0.008547880646245254
+Job Stress [I have unmanageable workloads.],0.0005555555555555683,0.03829650865230289
+Type of the employment,0.0,0.0
+Age,0.0,0.0
+Gender,0.0,0.0
+Educational Level,0.0,0.0
+Marital Status,0.0,0.0
+Based on,0.0,0.0
+Job Role,0.0,0.0
+Salary Range,0.0,0.0
+Number of companies switched within 5 years?,0.0,0.0
+Years on current company - Y,0.0,0.0
+Experiences -Y,0.0,0.0
+Willing to relocate from the workplace?,0.0,0.0
+Distance to the workplace - KM,0.0,0.0
+Mode of work,0.0,0.0
+"Alternative Job Opportunity [I feel that it is easy for me to find a job as good as the one, I now have.]",0.0,0.0
+Recognition [I am having close contacts with superiors.],0.0,0.0
+Alternative Job Opportunity [There are many opportunities for development outside my current organization.],0.0,0.0
+"Alternative Job Opportunity [If I leave this organization, there are many available new jobs for me to choose from.]",0.0,0.0
+Job Stress [I am having career development barriers.],0.0,0.0
+Organizational Support [I have a good superior support.],0.0,0.0
+"Job Satisfaction [I have a continuous , friendly relationship with the top management.]",0.0,0.0
+Job Satisfaction [I have a friendly relationship with the supervisor.],0.0,0.0
+Job Satisfaction [Work colleagues are friendly and supportive to me.],0.0,0.0
+Job Stress [I am dealing with negative attitudes of co-workers.],0.0,0.0
+Job Stress [I am having role conflicts/ambiguity.],0.0,0.0
+Job Stress [I have work-family conflicts due to workload],0.0,0.0
+Recognition [My suggestions are considered and implemented by superiors.],-0.0005158730158730103,0.040286299825632005
+Organizational Commitment [I feel myself to be part of the organization.],-0.000634920634920629,0.03334995806138134
+Recognition [My job achievements reach top management.],-0.0008730158730158699,0.020924253607115008
+Organizational Support [I have a great department support.],-0.001269841269841269,0.017856966489428874
+Job Satisfaction [I am getting the expected salary and other benefits.],-0.0025396825396825306,0.03211452798241607
+Recognition [I am getting recognized for the jobs performed.],-0.002539682539682538,0.02518963101571731
+Recognition [I am getting individual attention towards problem solving.],-0.002539682539682538,0.02518963101571731
+Organizational Support [I have a good colleague support.],-0.002857142857142858,0.015386185163241447
+Organizational Support [I have a facilitative working environment.],-0.004126984126984127,0.023416868070996872
+Job Stress [I have a pleasant working environment.],-0.004761904761904756,0.040685732120559696
+Job Satisfaction [There have open up the paths to great career development opportunities.],-0.005396825396825396,0.029270116722182882
+Organizational Commitment [I am quite proud to be able to tell people who it is I work for],-0.009126984126984124,0.03854929471407858
+Organizational Support [I am following favorable organizational policies.],-0.01428571428571429,0.031943828249997
